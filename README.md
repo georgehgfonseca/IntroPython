@@ -21,4 +21,4 @@ O código é organizado em 15 partes, na ordem em que foram abordados em aula. A
 ## 4. Material complementar
 A videoaula está disponível no meu canal no Youtube: [parte 1](https://youtu.be/hi7dDDxWxQ8) e [parte 2](https://youtu.be/zAxaPffOx_8).
 
-As notas de aula e exercícios adicionais podem ser acessados no Moodle.
+As notas de aula estão disponíveis no meu [site](http://professor.ufop.br/sites/default/files/george/files/e01_programacao_em_python.pdf) e exercícios adicionais podem ser acessados no Moodle.
